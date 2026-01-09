@@ -1,6 +1,4 @@
 import secrets
-import pyotp
-import time
 import os
 from cryptography.hazmat.primitives.ciphers.aead import AESGCM
 from cryptography.hazmat.primitives.asymmetric import rsa, padding
