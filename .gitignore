@@ -1,0 +1,11 @@
+# Environment ignore
+__pycache__/
+*.pyc
+__pycache__/
+*.pyc
+*.pyo
+.env
+__pycache__/
+*.pyc
+*.pyo
+.env
